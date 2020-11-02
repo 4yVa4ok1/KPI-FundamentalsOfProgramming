@@ -1,0 +1,7 @@
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory4\bin\Debug\Laboratory4.exe.config
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory4\bin\Debug\Laboratory4.exe
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory4\bin\Debug\Laboratory4.pdb
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory4\obj\Debug\Laboratory4.csprojAssemblyReference.cache
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory4\obj\Debug\Laboratory4.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory4\obj\Debug\Laboratory4.exe
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory4\obj\Debug\Laboratory4.pdb

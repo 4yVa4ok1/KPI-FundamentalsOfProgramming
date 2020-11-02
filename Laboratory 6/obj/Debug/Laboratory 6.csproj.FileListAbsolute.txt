@@ -1,0 +1,7 @@
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory 6\bin\Debug\Laboratory 6.exe.config
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory 6\bin\Debug\Laboratory 6.exe
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory 6\bin\Debug\Laboratory 6.pdb
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory 6\obj\Debug\Laboratory 6.csprojAssemblyReference.cache
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory 6\obj\Debug\Laboratory 6.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory 6\obj\Debug\Laboratory 6.exe
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory 6\obj\Debug\Laboratory 6.pdb

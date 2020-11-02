@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory5\bin\Debug\Laboratory5.exe.config
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory5\bin\Debug\Laboratory5.exe
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory5\bin\Debug\Laboratory5.pdb
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory5\obj\Debug\Laboratory5.csprojAssemblyReference.cache
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory5\obj\Debug\Laboratory5.Form1.resources
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory5\obj\Debug\Laboratory5.Properties.Resources.resources
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory5\obj\Debug\Laboratory5.csproj.GenerateResource.cache
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory5\obj\Debug\Laboratory5.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory5\obj\Debug\Laboratory5.exe
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratory5\obj\Debug\Laboratory5.pdb
