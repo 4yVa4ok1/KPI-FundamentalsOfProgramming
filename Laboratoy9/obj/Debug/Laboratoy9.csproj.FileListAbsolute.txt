@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratoy9\bin\Debug\Laboratoy9.exe.config
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratoy9\bin\Debug\Laboratoy9.exe
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratoy9\bin\Debug\Laboratoy9.pdb
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratoy9\obj\Debug\Laboratoy9.csprojAssemblyReference.cache
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratoy9\obj\Debug\Laboratoy9.Form1.resources
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratoy9\obj\Debug\Laboratoy9.Properties.Resources.resources
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratoy9\obj\Debug\Laboratoy9.csproj.GenerateResource.cache
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratoy9\obj\Debug\Laboratoy9.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratoy9\obj\Debug\Laboratoy9.exe
+E:\Visual Studio Projects\KPI\Fundamentals of programming\Laboratoy9\obj\Debug\Laboratoy9.pdb
